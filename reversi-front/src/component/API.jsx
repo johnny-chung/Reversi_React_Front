@@ -1,5 +1,5 @@
 import axios from 'axios'
-const apiBaseUrl = 'http://localhost:5000/api'
+const apiBaseUrl = 'http://goodmanisltd.com/api'
 
 
 function checkMoveAPI(gameData, t_row, t_col, player) {
